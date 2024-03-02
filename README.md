@@ -1,6 +1,8 @@
 # Zenn投稿に関するマイガイドライン
 
-[Zenn](https://zenn.dev/hirohiro_sys)
+[👉My-Zenn-Account](https://zenn.dev/hirohiro_sys)
+
+[📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
 ## 基本方針
 
@@ -20,6 +22,4 @@
 
 * 1週間の生産性向上等々
 
-# Zenn CLI
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
