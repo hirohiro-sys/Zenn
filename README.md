@@ -1,6 +1,10 @@
+> [!WARNING]
+> ファイル容量が逼迫してきたため現在はwebエディタで投稿してます。
+> 
+> [👉My-Zenn-Account](https://zenn.dev/hirohiro_sys)
+
 # Zenn投稿に関するマイガイドライン
 
-[👉My-Zenn-Account](https://zenn.dev/hirohiro_sys)
 
 [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
