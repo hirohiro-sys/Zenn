@@ -1,7 +1,7 @@
 > [!WARNING]
-> ファイル容量が逼迫してきたため現在はwebエディタで投稿してます。
+> 現在はQiitaメインで投稿しています。
 > 
-> [👉My-Zenn-Account](https://zenn.dev/hirohiro_sys)
+> [👉My-Qiita-Account](https://qiita.com/bisketoriba)
 
 # Zenn投稿に関するマイガイドライン
 
