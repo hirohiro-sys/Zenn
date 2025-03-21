@@ -1,7 +1,7 @@
 > [!WARNING]
 > 現在はQiitaメインで投稿しています。
 > 
-> [👉My-Qiita-Account](https://qiita.com/bisketoriba)
+<!--- [👉My-Qiita-Account](https://qiita.com/bisketoriba) --->
 
 # Zenn投稿に関するマイガイドライン
 
